@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892033607887",
+    "project_id": "smart-agenda-7e023",
+    "storage_bucket": "smart-agenda-7e023.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892033607887:android:7857a3f845170424802fba",
+        "android_client_info": {
+          "package_name": "com.hugo.smartagenda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzRoUoWzomnl1QnL0vTaQojjl5k-H_aDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

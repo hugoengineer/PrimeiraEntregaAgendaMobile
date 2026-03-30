@@ -1,0 +1,6 @@
+site_name: Minha Agenda Mobile
+theme:
+  name: material
+  palette:
+    primary: deep purple 
+    accent: indigo
